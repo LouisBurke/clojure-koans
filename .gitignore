@@ -19,7 +19,6 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 
-
 ### OSX ###
 .DS_Store
 .AppleDouble
@@ -200,4 +199,3 @@ local.properties
 
 # sftp configuration file
 sftp-config.json
-
